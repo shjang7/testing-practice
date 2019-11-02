@@ -1,4 +1,4 @@
-const { validArray } = require('./../utils/valid_check');
+const { validArray } = require('./valid_check');
 
 function analyze(arr) {
   validArray(arr);

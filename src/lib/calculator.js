@@ -1,6 +1,6 @@
 const {
   validNumber, zeroDivisionCheck,
-} = require('./../utils/valid_check');
+} = require('./valid_check');
 
 const calculator = {
   validCheck(a, b) {

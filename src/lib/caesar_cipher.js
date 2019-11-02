@@ -1,6 +1,6 @@
 const {
   validString, validNumber,
-} = require('./../utils/valid_check');
+} = require('./valid_check');
 
 function mod(a, b) {
   return a % b;
