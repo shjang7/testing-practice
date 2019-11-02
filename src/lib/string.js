@@ -1,4 +1,4 @@
-const { validString } = require('./../utils/valid_check');
+const { validString } = require('./valid_check');
 
 function capitalize(str) {
   validString(str);
