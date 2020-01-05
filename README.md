@@ -1,4 +1,5 @@
 # testing-practice
+[![Run on Repl.it](https://repl.it/badge/github/shjang7/testing-practice)](https://repl.it/github/shjang7/testing-practice)
 
 This is a testing practice with javascript. A part of the Odin Project's Curriculum. <br />
 Find it at [here](https://www.theodinproject.com/courses/javascript/lessons/testing-practice).
@@ -14,6 +15,41 @@ Find it at [here](https://www.theodinproject.com/courses/javascript/lessons/test
   - Caesar cipher for string
 - array analyze
   - analyze array minimum / maximum / length / average
+
+
+### ✨ [Live Demo](https://repl.it/@SuhyeonJang/testing-practice)
+
+## Getting started
+
+> Clone the repository to your local machine
+
+```
+$ git clone https://github.com/shjang7/testing-practice.git
+```
+
+> Change directory into the directory
+
+```
+$ cd testing-practice
+```
+
+> Install npm
+
+```
+$ npm install
+```
+
+> Build codes
+
+```
+$ npm run build
+```
+
+> Test codes
+
+```
+$ npm test
+```
 
 ## Technologies
 
